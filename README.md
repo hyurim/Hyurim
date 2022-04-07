@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" /> </a>
   <img src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" /> </a> </p>
   
+  <h3 align='center'> 👨‍💻 Currently Studying Stack </h3>
+  <p><p align='center'>
+  <img src="https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-React--Redux-%23764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-Redux--Saga-%23999999?style=flat-square&logo=Redux-Saga&logoColor=white"/></a></p>
+  
   <h3 align='center'> 👨‍💻 Hope Stack </h3>
   <p><p align='center'>
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" /> </a> or
