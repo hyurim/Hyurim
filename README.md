@@ -14,8 +14,7 @@
   <h3 align='center'> 👨‍💻 Currently Studying Stack </h3>
   <p><p align='center'>
   <img src="https://img.shields.io/badge/-Redux-%23764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-React--Redux-%23764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-Redux--Saga-%23999999?style=flat-square&logo=Redux-Saga&logoColor=white"/></a></p>
+  <img src="https://img.shields.io/badge/-React--Redux-%23764ABC?style=flat-square&logo=Redux&logoColor=white"/></a></p>
   
   <h3 align='center'> 👨‍💻 Hope Stack </h3>
   <p><p align='center'>
