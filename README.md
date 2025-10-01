@@ -6,6 +6,7 @@
 
   <h3 align='center'> 👨‍💻 Tech Stack </h3>
   <p><p align='center'>
+  <img src="https://img.shields.io/badge/Power Automate-7492ED?style=flat-square&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" /> </a>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
@@ -13,17 +14,15 @@
   <h3 align='center'> 👨‍💻 Currently Studying Stack </h3>
   <p><p align='center'>
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-007396?style=flat-square&logo=Tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=Spring%20Security&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-4479A1?style=flat-square&logo=Oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
   </p>
   
   <h3 align='center'> 👨‍💻 Hope Stack </h3>
   <p><p align='center'>
-    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white" />
     <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white" />
   </p>
 
